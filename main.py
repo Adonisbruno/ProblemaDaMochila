@@ -14,6 +14,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
     # extrai as dimensoes da matriz, remove ela da lista e retorna a lista tambem
     lista, linhas, capacidade = extrairDimensoesMatriz(vetor)
     # extraindo peso, valor e inicializando matriz da Mochila com zeros
